@@ -1,7 +1,7 @@
 class cobweb(object):
     def __init__(self):
-        len = 2720
-        Z=2
+        len = 2.720
+        Z=0.02
         self.side1 = [(len / 2, 0),
                       (len / 2, len),
                       ((len / 2) * 1 / 10, len),
